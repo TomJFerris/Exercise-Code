@@ -1,40 +1,67 @@
 {
-    "squadName" : "Toyota",
-    "homeTown" : "Kilkenny City",
-    "formed" : 2016,
-    "secretBase" : "Super tower",
+    "companyName" : "Toyota",
+    "homeTown" : "Nagoya, Japan",
+    "formed" : 1933,
     "active" : true,
-    "members" : [
+    "vehicles" : [
       {
-        "name" : "Molecule Man",
-        "age" : 29,
-        "secretIdentity" : "Dan Jukes",
-        "powers" : [
-          "Radiation resistance",
-          "Turning tiny",
-          "Radiation blast"
+        "name" : "GR Supra",
+        "year" : 2021,
+        "features" : [
+          "12 speaker JBL audio",
+          "8.8' multimedia display",
+          "Heads Up Display"
+          "Wireless mobile phone charger"
         ]
       },
       {
-        "name" : "Madame Uppercut",
-        "age" : 39,
-        "secretIdentity" : "Jane Wilson",
-        "powers" : [
-          "Million tonne punch",
-          "Damage resistance",
-          "Superhuman reflexes"
+       "name" : "GR Supra",
+        "year" : 2021,
+        "features" : [
+          "12 speaker JBL audio",
+          "8.8' multimedia display",
+          "Heads Up Display"
+          "Wireless mobile phone charger"
+        ]
+      },
+        {
+        "name" : "GR Supra",
+        "year" : 2021,
+        "features" : [
+          "12 speaker JBL audio",
+          "8.8' multimedia display",
+          "Heads Up Display"
+          "Wireless mobile phone charger"
+        ]
+      },
+        {
+        "name" : "GR Supra",
+        "year" : 2021,
+        "features" : [
+          "12 speaker JBL audio",
+          "8.8' multimedia display",
+          "Heads Up Display"
+          "Wireless mobile phone charger"
+        ]
+      },
+        {
+        "name" : "GR Supra",
+        "year" : 2021,
+        "features" : [
+          "12 speaker JBL audio",
+          "8.8' multimedia display",
+          "Heads Up Display"
+          "Wireless mobile phone charger"
         ]
       },
       {
-        "name" : "Eternal Flame",
-        "age" : 1000000,
-        "secretIdentity" : "Unknown",
-        "powers" : [
-          "Immortality",
-          "Heat Immunity",
-          "Inferno",
-          "Teleportation",
-          "Interdimensional travel"
+        "name" : "GR Supra",
+        "year" : 2021,
+        "features" : [
+          "12 speaker JBL audio",
+          "8.8' multimedia display",
+          "Heads Up Display"
+          "Wireless mobile phone charger"
         ]
       }
     ]
