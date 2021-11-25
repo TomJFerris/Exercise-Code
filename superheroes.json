@@ -1,17 +1,17 @@
 {
   "companyName" : "Toyota",
   "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "formed" : 1933,
   "active" : true,
   "vehicles" : [
     {
       "name" : "GR Supra",
       "year" : 2021,
       "features" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "12 speaker JBL audio",
+        "8.8' multimedia display",
+        "Head Up Display",
+        "Wireless mobile phone charge"
       ]
     },
     {
