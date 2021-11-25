@@ -16,25 +16,23 @@
       ]
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name" : "GR Supra",
+      "year" : 2021,
+      "features" : [
+        "12 speaker JBL audio",
+        "8.8' multimedia display",
+        "Head Up Display",
+        "Wireless mobile phone charge"
       ]
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "name" : "GR Supra",
+      "year" : 2021,
+      "features" : [
+        "12 speaker JBL audio",
+        "8.8' multimedia display",
+        "Head Up Display",
+        "Wireless mobile phone charge"
       ]
     }
   ]
