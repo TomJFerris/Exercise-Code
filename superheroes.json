@@ -4,12 +4,11 @@
   "formed" : 2016,
   "secretBase" : "Super tower",
   "active" : true,
-  "members" : [
+  "vehicles" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
+      "name" : "GR Supra",
+      "year" : 2021,
+      "features" : [
         "Radiation resistance",
         "Turning tiny",
         "Radiation blast"
