@@ -16,23 +16,53 @@
       ]
     },
     {
-      "name" : "GR Supra",
-      "year" : 2021,
+      "name" : "GR Yaris",
+      "year" : 2020,
       "features" : [
-        "12 speaker JBL audio",
-        "8.8' multimedia display",
-        "Head Up Display",
-        "Wireless mobile phone charge"
+        "Front sports seats",
+        "Torsen limited slip differential (LSD) lock",
+        "Pre-Collision System enhanced with Emergency Steering Assist",
+        "Red sports front brake pads"
       ]
     },
     {
-      "name" : "GR Supra",
+      "name" : "C-HR",
+      "year" : 2018,
+      "features" : [
+        "8' Toyota Touch® 2 multimedia system with Apple CarPlay™ & Android Auto™",
+        "Electronic parking brake",
+        "Dual-zone climate control",
+        "Electrochromatic rear-view mirror"
+      ]
+    },
+    {
+      "name" : "Hilux DLX",
+      "year" : 2020,
+      "features" : [
+        "Manual air conditioning",
+        "Intelligent Adaptive Cruise Control",
+        "Pre-Collision System with Pedestrian and Cyclist Detection",
+        "Road Sign Assist"
+      ]
+    },
+    {
+      "name" : "Highlander",
+      "year" : 2020,
+      "features" : [
+        "8' multimedia display with Apple CarPlay / Android Auto",
+        "18' Dark grey machined-face alloy wheels (5-spoke)",
+        "Rear privacy glass",
+        "Front fog lamps (LED type)"
+      ]
+    },
+    {
+      "name" : "Corolla Hatchback",
       "year" : 2021,
       "features" : [
-        "12 speaker JBL audio",
-        "8.8' multimedia display",
-        "Head Up Display",
-        "Wireless mobile phone charge"
+        "3-spoke partially perforated leather steering wheel",
+        "Aluminium door scuff plates",
+        "GR SPORT door scuff plates",
+        "Red stitching on steering wheel"
       ]
     }
   ]
